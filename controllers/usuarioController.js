@@ -135,12 +135,13 @@ const registrar = async (req, res) => {
         token: generateID()
     })
 
+    /*
     //Enviar email de confirmacion
     emailRegistro({
         nombre: usuario.nombre,
         email: usuario.email,
         token: usuario.token
-    })
+    })*/
 
 
     //Mostrar mensaje de confirmación
