@@ -6,7 +6,7 @@ proyecto integrador de la asignatura  de Aplicaciones web Orientada a Servicios(
 | Actividad | Descripción | Estatus de la Actividad |
 |-----------|-------------|-------------------------|
 | 01        | Cargar el código base de la Aplicación de BienesRaíces en un Nuevo Repositorio Privado. | ✅Finalizada |
-| 02        | Implementar su paleta de colores, tipografías , y diseño de componentes. | ❎ No Finalizada |
+| 02        | Implementar su paleta de colores, tipografías , y diseño de componentes. | ✅Finalizada|
 | 03        | Agregar la Categoría "Establecimientos" para poder rentar o vender espacios para negocios. | ❎ No Finalizada|
 | 04        | Cambiar la posición inicial del mapa a su LAT y LNG de su CASA (estudiante). | ❎ No Finalizada |
 | 05        | Agrega la funcionalidad de guardar una imagen de perfil al momento de crear su cuenta , también incluir la validación de cuentas para mayores de edad. | ❎ No Finalizada|
