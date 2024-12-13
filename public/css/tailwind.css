@@ -5,3 +5,49 @@
 .leaflet-container a {
     color: #FFF;
 }
+
+.bg{
+    
+       background: linear-gradient(to right, rgb(97, 67, 133), rgb(81, 99, 149));
+
+       height: 50vh;
+    
+    }
+    
+     
+    
+    .t-stroke {
+    
+      color: transparent;
+    
+      -moz-text-stroke-width: 2px;
+    
+      -webkit-text-stroke-width: 2px;
+    
+      -moz-text-stroke-color: #000000;
+    
+      -webkit-text-stroke-color: #ffffff;
+    
+    }
+    
+    .t-shadow {
+    
+      text-shadow: 7px 7px #00B2CA;
+    
+    }
+    
+    .bg-error{
+    
+        background: linear-gradient(to right, rgb(97, 67, 133), rgb(81, 99, 149));
+     
+     }
+
+     .div-stroke {
+        position: relative;
+        border: 2px solid #000000; 
+        background: #ffffff; 
+        box-shadow: 7px 7px 0px #00B2CA; 
+        padding: 10px; 
+        display: inline-block; 
+    }
+    
